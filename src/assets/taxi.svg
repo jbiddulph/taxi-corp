@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve" id="svg2" inkscape:version="0.91 r13725" sodipodi:docname="Q82650_noun_7191_ccJensTärning_taxi.svg">
+  <metadata id="metadata18">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs16" />
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1680" inkscape:window-height="988" id="namedview14" showgrid="false" inkscape:zoom="5.3400704" inkscape:cx="55.220127" inkscape:cy="65.700408" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg2" />
+  <g id="g4" transform="translate(0,10)">
+    <path d="m 39,14 22,0 c 1.1,0 1.823,-0.882 1.607,-1.961 L 61.392,5.961 C 61.177,4.882 60.1,4 59,4 L 41,4 c -1.1,0 -2.176,0.882 -2.392,1.961 l -1.216,6.078 C 37.176,13.118 37.9,14 39,14 Z" id="path6" inkscape:connector-curvature="0" style="fill:#ff0000" />
+    <path d="M 100,45.5 C 100,42.475 97.525,40 94.5,40 L 87.923,40 83.154,27.6 C 81.969,24.52 78.404,21.258 75.23,20.351 75.23,20.352 67,18 50,18 33,18 24.769,20.352 24.769,20.352 21.596,21.259 18.031,24.52 16.846,27.601 L 12.077,40 5.5,40 C 2.475,40 0,42.475 0,45.5 0,48.525 2.475,51 5.5,51 l 2.346,0 -1.692,4.4 C 4.969,58.479 4,63.7 4,67 l 0,26 c 0,3.85 3.15,7 7,7 3.85,0 7,-3.15 7,-7 l 0,-4 64,0 0,4 c 0,3.85 3.15,7 7,7 3.85,0 7,-3.15 7,-7 L 96,67 C 96,63.7 95.03,58.479 93.846,55.4 L 92.153,51 94.5,51 c 3.025,0 5.5,-2.475 5.5,-5.5 z M 17.691,47.124 23.308,31.877 C 23.689,30.845 24.9,30 26,30 l 48,0 c 1.1,0 2.312,0.845 2.691,1.876 l 5.617,15.247 C 82.688,48.155 82.1,49 81,49 l -62,0 c -1.1,0 -1.689,-0.845 -1.309,-1.876 z M 17.5,72 C 14.463,72 12,69.535 12,66.5 12,63.465 14.463,61 17.5,61 c 3.037,0 5.5,2.465 5.5,5.5 0,3.035 -2.463,5.5 -5.5,5.5 z m 65,0 C 79.462,72 77,69.538 77,66.5 77,63.462 79.462,61 82.5,61 c 3.038,0 5.5,2.462 5.5,5.5 0,3.038 -2.462,5.5 -5.5,5.5 z" id="path8" inkscape:connector-curvature="0" style="fill:#ff0000" />
+  </g>
+</svg>
