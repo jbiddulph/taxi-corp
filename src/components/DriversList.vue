@@ -1,11 +1,12 @@
 <template>
   <div>
     <h1 class="text-3xl font-bold underline p-8">Drivers</h1>
-    <ul class="flex flex-wrap justify-items-between">
+    <ul class="flex flex-wrap justify-items-between w-full mx-auto">
       <li
-        v-for="(driver, index) in drivers"
-        :key="index"
-        class="w-full md:w-72 min-h-32 mx-4 my-12"
+        v-for="driver in drivers"
+        :key="driver.id"
+        @click="showDriverInfo(driver)"
+        class="w-full md:w-72 min-h-32 mx-4 my-12 cursor-pointer"
       >
         <div
           class="
@@ -45,6 +46,25 @@ export default {
   name: "DriversList",
   props: {
     drivers: Array,
+  },
+  data() {
+    return {
+      selectedDriver: [],
+    };
+  },
+  methods: {
+    showDriverInfo(driver) {
+      console.log("Show driver info: " + driver);
+      var index = this.selectedDriver.findIndex(
+        (item) => item.id === driver.id
+      );
+
+      if (index === -1) {
+        this.selectedDriver.push(driver);
+      } else {
+        this.selectedDriver.splice(index, 1);
+      }
+    },
   },
 };
 </script>

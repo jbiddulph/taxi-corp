@@ -3,8 +3,8 @@
     <h1 class="text-3xl font-bold underline p-8">Users</h1>
     <ul class="flex flex-wrap justify-items-between">
       <li
-        v-for="(user, index) in users"
-        :key="index"
+        v-for="user in users"
+        :key="user.id"
         class="w-full md:w-72 min-h-32 mx-4 my-12"
       >
         <div
@@ -41,13 +41,9 @@
 
 <script>
 export default {
-  name: "UsersList",
+  name: "TestList",
   props: {
     users: Array,
   },
 };
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-</style>

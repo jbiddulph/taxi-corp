@@ -8,7 +8,7 @@
 import UsersList from "@/components/UsersList.vue";
 
 export default {
-  name: "UsersList",
+  name: "UserView",
   components: {
     UsersList,
   },
@@ -24,7 +24,7 @@ export default {
         {
           id: 2,
           name: "Amanda Johnson",
-          photo: "https://randomuser.me/api/portraits/women/22.jpg",
+          photo: "",
         },
         {
           id: 3,
@@ -39,7 +39,7 @@ export default {
         {
           id: 5,
           name: "Margaret Turner",
-          photo: "https://randomuser.me/api/portraits/women/25.jpg",
+          photo: "",
         },
         {
           id: 6,
