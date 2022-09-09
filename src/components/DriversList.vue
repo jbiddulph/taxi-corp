@@ -86,11 +86,12 @@
           </p>
         </div>
         <div v-if="selectedDriver[0].vehicle">
-          <h2 class="text-2xl text-left text-gray-300">Vehicle:</h2>
+          <h2 class="text-2xl text-left text-gray-300 mb-2">Vehicle:</h2>
           <h3 class="text-xl text-left">
             {{ selectedDriver[0].vehicle.make }}<br />
             {{ selectedDriver[0].vehicle.model }}<br />
             {{ selectedDriver[0].vehicle.registation }}<br />
+            {{ selectedDriver[0].vehicle.dateLastDriven }}<br />
           </h3>
         </div>
       </div>
