@@ -21,24 +21,48 @@ export default {
           name: "Justin Hughes",
           photo: "https://randomuser.me/api/portraits/men/1.jpg",
           licenceNo: "JH-567567689",
+          vehicle: {
+            registation: "AB22JMB",
+            make: "VW",
+            model: "Golf",
+            dateLastDriven: "07-09-2022",
+          },
         },
         {
           id: 2,
           name: "Amanda Johnson",
           photo: "https://randomuser.me/api/portraits/women/2.jpg",
           licenceNo: "AJ-76687688",
+          vehicle: {
+            registation: "HG21XYZ",
+            make: "VW",
+            model: "Jetta",
+            dateLastDriven: "09-09-2022",
+          },
         },
         {
           id: 3,
           name: "Andrew Price",
           photo: "https://randomuser.me/api/portraits/men/3.jpg",
           licenceNo: "AP-8765432",
+          vehicle: {
+            registation: "T4X1",
+            make: "FORD",
+            model: "CAPRI",
+            dateLastDriven: "09-09-2022",
+          },
         },
         {
           id: 4,
           name: "Isla Collins",
           photo: "https://randomuser.me/api/portraits/women/4.jpg",
           licenceNo: "IC-09099876",
+          vehicle: {
+            registation: "AU69FTY",
+            make: "AUDI",
+            model: "A3",
+            dateLastDriven: "04-09-2022",
+          },
         },
         {
           id: 5,
@@ -69,6 +93,12 @@ export default {
           name: "Charlie Edwards",
           photo: "https://randomuser.me/api/portraits/men/9.jpg",
           licenceNo: "CE-8887756",
+          vehicle: {
+            registation: "HJ51JMB",
+            make: "Mercedes",
+            model: "AMG 45",
+            dateLastDriven: "07-09-2022",
+          },
         },
         {
           id: 10,
@@ -81,12 +111,19 @@ export default {
           name: "Eric Moore",
           photo: "https://randomuser.me/api/portraits/men/11.jpg",
           licenceNo: "EM-766222688",
+          vehicle: {
+            registation: "A21BMW",
+            make: "BMW",
+            model: "M3",
+            dateLastDriven: "08-09-2022",
+          },
         },
         {
           id: 12,
           name: "Carolyn Thompson",
           photo: "",
           licenceNo: "CTP-3335432",
+          vehicle: {},
         },
         {
           id: 13,
@@ -111,6 +148,12 @@ export default {
           name: "Brenda Wilson",
           photo: "https://randomuser.me/api/portraits/women/16.jpg",
           licenceNo: "BW-3224234",
+          vehicle: {
+            registation: "TJ71NGT",
+            make: "VW",
+            model: "Golf",
+            dateLastDriven: "09-09-2022",
+          },
         },
         {
           id: 17,
